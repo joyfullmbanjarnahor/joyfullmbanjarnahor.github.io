@@ -2,7 +2,7 @@
  
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-To view a live example, [click here](https://munenecalvin.github.io/Final-Portfolio-Website/)
+To view a live example, [click here](https://joyfullmbanjarnahor.github.io/)
 
 ### Website Preview
 
